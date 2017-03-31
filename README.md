@@ -5,6 +5,6 @@
 <p> This is an image of how the game should look while playing. </p>
 <img src="https://github.com/dsagar9969/ProtectingPOTUS/blob/master/Screenshots/gameplay.png" height="200px">
 <p> This image is what happens when the game is over. </p>
-<img scr="
+<img scr="https://github.com/dsagar9969/ProtectingPOTUS/blob/master/Screenshots/end%20screen.PNG" height="200px">
 
 <a href="https://www.python.org/downloads/">Download Python</a>
